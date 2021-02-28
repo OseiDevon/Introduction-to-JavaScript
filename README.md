@@ -57,4 +57,4 @@ Please see Canvas for submission instructions specific to your cohort
 ## Resources
 
 🧮 [Polya's 4 Step Approach to Problem Solving](http://web.mnstate.edu/peil/M110/Worksheet/PolyaProblemSolve.pdf)
-i book marked this!!
+i book marked this!! now im just hoping this works. Dont mind this. I am just having commit issues.
